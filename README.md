@@ -1,6 +1,6 @@
 # JARVIS - Voice Assistant
 <p align="center">
-  <img src="https://github.com/BaibhabKarmakar/Jarvis/raw/main/image.png" alt="JARVIS Banner" width="800"/>
+  <img src="https://github.com/BaibhabKarmakar/Jarvis/raw/main/image.jpg" alt="JARVIS Banner" width="800"/>
 </p>
 A simple, offline-capable voice assistant inspired by Iron Man's JARVIS, built in Python.
 
